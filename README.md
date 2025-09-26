@@ -1,4 +1,4 @@
-# Shopify-customer_events-pixels
+# shopify-customer_events-pixels
 Desenvolvimento de camada de dados para eventos de GA4 Ecommerce via customer_events Shopify
 
 Eventos implementados:
